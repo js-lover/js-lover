@@ -25,7 +25,7 @@
 
 ---
 
-## 📱 Projeler
+## 📱 Başlıca Projeler
 
 ### 🏦 [credit-case](https://github.com/js-lover/credit-case) — Dijital Kredi & Geri Ödeme Yönetim Sistemi
 
