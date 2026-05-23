@@ -30,14 +30,14 @@ Currently specializing in end-to-end full-stack processes, blending modern JavaS
 ## 📱 Featured Projects
 
 ### 💳 payment-system
-An end-to-end transaction management and payment automation infrastructure designed to handle secure payment workflows, automated billing reminders, or QR-based payment systems[cite: 1, 5].
-*   **Key Features:** Secure payment processing routing, transaction logs, subscription/reminder logic, and API integration handling[cite: 1, 5].
-*   **Tech Stack:** Full-stack JavaScript/TypeScript framework ecosystem with robust endpoint structure[cite: 1, 5].
+An end-to-end transaction management and payment automation infrastructure designed to handle secure payment workflows, automated billing reminders, or QR-based payment systems.
+*   **Key Features:** Secure payment processing routing, transaction logs, subscription/reminder logic, and API integration handling.
+*   **Tech Stack:** Full-stack JavaScript/TypeScript framework ecosystem with robust endpoint structure.
 
 ### 🏦 credit-case (Digital Credit & Repayment Management System)
-A production-grade full-stack banking case study application that allows individual clients to digitally manage loan lifecycles, real-time balances, and personalized payment tracks[cite: 5].
-*   **Key Features:** Automated monthly installment plan generation (with Paid, Unpaid, and Overdue status triggers), customer CRUD management, and mock third-party service integrations (Credit Score API and Fake Payment Gateways)[cite: 5].
-*   **Tech Stack:** Built with a powerful **.NET / C# Web API** backend, **React** frontend, and relational databases (**SQL Server / PostgreSQL**)[cite: 5].
+A production-grade full-stack banking case study application that allows individual clients to digitally manage loan lifecycles, real-time balances, and personalized payment tracks.
+*   **Key Features:** Automated monthly installment plan generation (with Paid, Unpaid, and Overdue status triggers), customer CRUD management, and mock third-party service integrations (Credit Score API and Fake Payment Gateways).
+*   **Tech Stack:** Built with a powerful **.NET / C# Web API** backend, **React** frontend, and relational databases (**SQL Server / PostgreSQL**).
 
 ### 🏋️ Menza App
 A comprehensive **fitness tracking mobile application** designed to help users log workouts, track nutrition, and monitor physical progress. Built using modern mobile development frameworks, featuring advanced location/mapping integrations and secure authentication flows.
