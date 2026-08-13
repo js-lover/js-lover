@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/js-lover/js-lover/main/github-profile-banner-with-text.png" alt="Barış Aydın — Software Engineer" width="100%" />
+# Barış Aydın
 
-<br />
+### Software Engineer
 
-`React` · `React Native` · `TypeScript` · `.NET` · `C#` · `Node.js` · `PostgreSQL` · `Docker`
+<p>
+  I'm a software engineer focused on building scalable web and mobile applications and reliable backend systems.
+</p>
 
-<br /><br />
+<p>
+  React · React Native · TypeScript · .NET · C# · Node.js · PostgreSQL · Docker
+</p>
 
 <a href="https://barisaydin.dev">Portfolio</a>
 &nbsp;·&nbsp;
@@ -19,3 +23,4 @@
 <a href="https://leetcode.com/u/js-lover/">LeetCode</a>
 
 </div>
+
