@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  React · React Native · TypeScript · .NET · C# · Node.js · PostgreSQL · Docker
+  React · React Native · TypeScript · .NET · C# · Node.js · MSSql · Docker
 </p>
 
 <a href="https://barisaydin.dev">Portfolio</a>
